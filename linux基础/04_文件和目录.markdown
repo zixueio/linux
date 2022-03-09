@@ -18,3 +18,5 @@
 
 ![image](https://user-images.githubusercontent.com/12490550/157355674-856e1389-dbbc-4474-b1f3-1d2d2177bfbd.png)
 
+- `Ubuntu`没有盘符这个概念，只有一个根目录`/`，所有文件都在它下面
+
