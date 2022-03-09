@@ -16,3 +16,5 @@
 ### 2.2 Linux下的文件系统
 - 在`Linux`下，我们看不到这些驱动器盘符，我们看到的是文件夹（目录）：
 
+![image](https://user-images.githubusercontent.com/12490550/157355674-856e1389-dbbc-4474-b1f3-1d2d2177bfbd.png)
+
