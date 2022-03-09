@@ -9,3 +9,7 @@
 ## 02.Windows和Linux文件系统区别
 - 在`Windows`下，打开`计算机`，我们看到的是一个个的驱动器盘符。
 - 每个驱动器都有自己的根目录结构，这样形成了多个树并列的情形，如图所示
+
+![image](https://user-images.githubusercontent.com/12490550/157354359-097932a1-6fb0-4984-befe-33fd137bc23f.png)
+
+
