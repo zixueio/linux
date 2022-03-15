@@ -116,3 +116,4 @@ $ ifconfig | grep inet
 - scp就是`secure copy`，是一个在Linux下用来进行**远程拷贝文件**的命令
 - 它的**地址格式与ssh基本相同，需要注意的是，**在指定端口时用的是大写的`-P`而不是小写的
 
+![image](https://user-images.githubusercontent.com/12490550/158305793-a4bef46a-86f2-418b-8c57-4402b462ad91.png)
