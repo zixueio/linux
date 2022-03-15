@@ -74,3 +74,7 @@ $ ifconfig | grep inet
 ### 3.1ssh基础（重点）
 在Linux中SSH是**非常常用**的工具，通过**SSH客户端**我们可以连接到运行了**SSH服务器**的远程机器上
 
+![image](https://user-images.githubusercontent.com/12490550/158295858-06a4c208-da70-45c8-80d9-13eef524ed95.png)
+
+
+
