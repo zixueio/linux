@@ -155,3 +155,19 @@ scp -r user@remote:Desktop demo
 ### 示意图
 
 ![image](https://user-images.githubusercontent.com/12490550/158501736-d24d0b62-8c08-4133-99da-0dadea5a0911.png)
+
+本地使用私钥对数据进行加密/解密
+
+服务器使用公钥对数据进行加密/解密
+
+### 2)设置别名
+每次都输入`ssh -p port user@remote`，时间久了会觉得很麻烦，特别是当`user`，`remote`和`port`都得输入，而且还不好记忆
+而**配置别名**可以让我们进一步偷懒，譬如用：`ssh mac`来替换上面这么一长串，那么就在`~/.ssh/config`里面追加了以下内容：
+```
+Host mac
+	HostName ip地址
+	User itheima
+	Port 22
+```
+保存之后，即可用`ssh mac`实现远程登陆了，`scp`同样可以使用
+
