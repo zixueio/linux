@@ -19,3 +19,5 @@
 ### 1.2组
 - 为了方便用户管理，提出了**组**的概念，如下图所示
 
+![image](https://user-images.githubusercontent.com/12490550/158509666-3f0fd634-2ee8-459a-bf3b-de36a7c4a2fa.png)
+
