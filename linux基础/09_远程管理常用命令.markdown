@@ -154,3 +154,4 @@ scp -r user@remote:Desktop demo
 	- 执行`ssh-copy-id -p port user@remote`，可以让远程服务器记住我们的公钥
 ### 示意图
 
+![image](https://user-images.githubusercontent.com/12490550/158501736-d24d0b62-8c08-4133-99da-0dadea5a0911.png)
