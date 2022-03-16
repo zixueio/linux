@@ -141,3 +141,16 @@ scp -r user@remote:Desktop demo
 > 注意：
 > - `scp`这个终端只能在`Linux`或者`UNIX`系统下使用
 > - 如果在`Windows`系统中，可以安装`Putty`，使用`pscp`命令行工具或者安装`FileZilla`使用`FTP`进行文件传输
+### FileZilla
+- 官方网站：https://www.filezilla.cn/download/client
+- `FileZilla`在传输文件时，使用的是`FTP服务`而不是`SSH服务`，因此端口号应该设置为`21`
+## 3.3SSH高级
+- 免密码登录
+- 设置别名
+### 1)免密码登录
+#### 步骤
+- 配置公钥
+	- 执行`ssh-keygen`即可生成SSH钥匙，一路回车即可
+	- 执行`ssh-copy-id -p port user@remote`，可以让远程服务器记住我们的公钥
+### 示意图
+
