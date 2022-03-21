@@ -228,5 +228,10 @@ chmod +/-rwx 文件名|目录名
 
 ![image](https://user-images.githubusercontent.com/12490550/159202376-8ee56036-6e52-4477-8b5d-4c11a16319f5.png)
 
+- 常见的数字组合有(`u`表示用户/`g`表示组/`o`表示其他)：
+	- `777`===>`u=rwx,g=rwx,o=rwx`
+	- `755`===>`u=rwx,g=rx,o=rx`
+	- `644`===>`u=rw,g=r,o=r`
+
 
 
