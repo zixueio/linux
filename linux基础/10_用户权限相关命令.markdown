@@ -224,3 +224,6 @@ chmod -R 755 文件名|目录名
 chmod +/-rwx 文件名|目录名
 ```
 
+![image](https://user-images.githubusercontent.com/12490550/159201715-ef5b7d04-82e3-4cc2-a0ac-40c0f41c554f.png)
+
+
