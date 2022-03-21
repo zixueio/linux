@@ -187,3 +187,7 @@ which useradd
 |02|exit|退出当前登录账户||
 - `su`不接用户名，可以切换到`root`，但是不推荐使用，因为不安全
 - `exit`示意图如下：
+
+![image](https://user-images.githubusercontent.com/12490550/159200556-686738a0-a872-4a76-8b02-26564343428e.png)
+
+
